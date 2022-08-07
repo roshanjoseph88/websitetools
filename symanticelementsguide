@@ -1,0 +1,26 @@
+<section>
+  for defining a section such as chapter ,news etc., sould define a setion in
+  the webpage.
+</section>
+<article>should be a seperate entity and should act independently.</article>
+<footer>sould define the footer of an webpage</footer>
+<nav>used to define the navigation of the page</nav>
+<aside>
+  should be used as a sidebar. must have some relation to the document.
+</aside>
+<figure>Sould be used to show drawings or illustration</figure>
+<figcaption>
+  Defines a caption for a
+  <figure>
+    element
+    <time> Defines a date/time</time>
+    <summary>
+      Defines a visible heading for a
+      <details>element</details>
+    </summary>
+    <!-- <details>
+  <summary>Epcot Center</summary>
+  <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international pavilions, award-winning fireworks and seasonal special events.</p>
+</details> -->
+  </figure>
+</figcaption>
